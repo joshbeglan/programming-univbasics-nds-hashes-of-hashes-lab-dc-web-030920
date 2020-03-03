@@ -44,13 +44,11 @@ def naming_system
   
   classification = {
     "Kingdom" => {
-      "Phylum" => {
-        "Class" => {
-          "Order" => {
-            "Family" => {
-              "Genus" => {
-                "Species" => {
-                }
+      "Class" => {
+        "Order" => {
+          "Family" => {
+            "Genus" => {
+              "Species" => {
               }
             }
           }
